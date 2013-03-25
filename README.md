@@ -1,7 +1,7 @@
 Remote-Control-UX
 =================
 
-Redesign of the modern Digital Video Recorder (DVR) remote control.
+Design a modern high fidelity Digital Video Recorder (DVR) remote control.
 
 1. Download [Keynote UI Kit](https://www.dropbox.com/s/r7zc6uk2tc5x369/keynote_wireframe_gui_toolkit.zip) or 
 [Illustrator UI Kit](https://www.dropbox.com/s/r8iwx3oikb1i9ql/illustrator_wireframe_gui_toolkit.zip)
@@ -23,6 +23,8 @@ D. Recording & playback controls (play, pause, rewind, etc).
 
 Requirements
 =================
+* [ ] Additional research saved to **Research** folder
+* [ ] A modern high fidelity Design in Keynote or Illustrator
 * [ ] Native Keynote or Illustrator files saved to repo
 * [ ] Exported .jpeg images saved to repo
 * [ ] Post images to InVision site for in class review
