@@ -8,13 +8,13 @@ Design a modern high fidelity Digital Video Recorder (DVR) remote control.
 
 2. Redesign the modern DVR remote control. Design for these features: 
 
-* A. Volumne up/down
-* B. Channel up/down
-* C. Channel selection controls (select, directional controls, exit, etc). 
-* D. Recording & playback controls (play, pause, rewind, etc). 
+ * A. Volumne up/down
+ * B. Channel up/down
+ * C. Channel selection controls (select, directional controls, exit, etc). 
+ * D. Recording & playback controls (play, pause, rewind, etc). 
+
 
 3. Post mockup images to InVision app. There should be multiple images to indicate 1st, 2nd, 3rd, etc. steps. 
-
 4. Save all files to **P3-Remote-Control-UX** repo
 
 * REF: [Simplify This](http://www.simpleandusable.com/simplify-this)
