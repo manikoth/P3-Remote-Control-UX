@@ -25,4 +25,4 @@ Requirements
 =================
 * [ ] Native Keynote or Illustrator files saved to repo
 * [ ] Exported .jpeg images saved to repo
-* [ ] Post images to InVision site
+* [ ] Post images to InVision site for in class review
