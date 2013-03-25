@@ -20,3 +20,9 @@ D. Recording & playback controls (play, pause, rewind, etc).
 * REF: [Simplify This](http://www.simpleandusable.com/simplify-this)
 * REF: [DVR, WikiPedia](http://en.wikipedia.org/wiki/Digital_video_recorder)
 * REF: [Course Lecture](http://manikoth.com/gdes254?page=2)
+
+Requirements
+=================
+* [ ] Native Keynote or Illustrator files saved to repo
+* [ ] Exported .jpeg images saved to repo
+* [ ] Post images to InVision site
